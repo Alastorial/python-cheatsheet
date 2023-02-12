@@ -24,18 +24,14 @@ Main
 if __name__ == '__main__':     # Runs main() if file wasn't imported.
     main()
 ```
-1
-2
-3
+
 
 List
 ----
 ```python
 <list> = <list>[<slice>]       # Or: <list>[from_inclusive : to_exclusive : ±step]
 ```
-1
-2
-3
+
 
 ```python
 <list>.append(<el>)            # Or: <list> += [<el>]
