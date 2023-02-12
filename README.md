@@ -26,6 +26,7 @@ if __name__ == '__main__':     # Runs main() if file wasn't imported.
 ```
 1
 2
+3
 
 List
 ----
