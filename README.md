@@ -33,6 +33,7 @@ List
 ```
 1
 2
+3
 
 ```python
 <list>.append(<el>)            # Or: <list> += [<el>]
