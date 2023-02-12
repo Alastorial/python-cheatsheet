@@ -32,6 +32,7 @@ List
 <list> = <list>[<slice>]       # Or: <list>[from_inclusive : to_exclusive : ±step]
 ```
 1
+2
 
 ```python
 <list>.append(<el>)            # Or: <list> += [<el>]
